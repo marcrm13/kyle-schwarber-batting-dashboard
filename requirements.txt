@@ -1,0 +1,9 @@
+# Runtime dependencies for the Posit Connect deployment.
+# Pinned to the versions the dashboard was built and tested against.
+shiny==1.7.0
+shinywidgets==0.8.1
+ipywidgets==8.1.9
+anywidget==0.11.0
+plotly==7.0.0
+pandas==3.0.5
+requests==2.34.2

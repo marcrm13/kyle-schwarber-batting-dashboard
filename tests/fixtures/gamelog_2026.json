@@ -1,0 +1,989 @@
+{
+  "stats": [
+    {
+      "type": {
+        "displayName": "gameLog"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "splits": [
+        {
+          "season": "2026",
+          "date": "2026-08-01",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": true,
+          "game": {
+            "gamePk": 800000
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "abbreviation": "PHI"
+          },
+          "opponent": {
+            "id": 100,
+            "name": "Opponent",
+            "abbreviation": "NYM"
+          },
+          "stat": {
+            "gamesPlayed": 1,
+            "plateAppearances": 5,
+            "atBats": 4,
+            "runs": 0,
+            "hits": 3,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "rbi": 1,
+            "baseOnBalls": 1,
+            "intentionalWalks": 0,
+            "hitByPitch": 0,
+            "strikeOuts": 3,
+            "sacFlies": 0,
+            "sacBunts": 0,
+            "totalBases": 3,
+            "avg": ".750"
+          }
+        },
+        {
+          "season": "2026",
+          "date": "2026-08-02",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": true,
+          "game": {
+            "gamePk": 800001
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "abbreviation": "PHI"
+          },
+          "opponent": {
+            "id": 101,
+            "name": "Opponent",
+            "abbreviation": "ATL"
+          },
+          "stat": {
+            "gamesPlayed": 1,
+            "plateAppearances": 6,
+            "atBats": 4,
+            "runs": 1,
+            "hits": 0,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "rbi": 1,
+            "baseOnBalls": 2,
+            "intentionalWalks": 0,
+            "hitByPitch": 0,
+            "strikeOuts": 0,
+            "sacFlies": 0,
+            "sacBunts": 0,
+            "totalBases": 0,
+            "avg": ".000"
+          }
+        },
+        {
+          "season": "2026",
+          "date": "2026-08-03",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": false,
+          "game": {
+            "gamePk": 800002
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "abbreviation": "PHI"
+          },
+          "opponent": {
+            "id": 102,
+            "name": "Opponent",
+            "abbreviation": "WSH"
+          },
+          "stat": {
+            "gamesPlayed": 1,
+            "plateAppearances": 6,
+            "atBats": 5,
+            "runs": 0,
+            "hits": 2,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "rbi": 0,
+            "baseOnBalls": 1,
+            "intentionalWalks": 0,
+            "hitByPitch": 0,
+            "strikeOuts": 0,
+            "sacFlies": 0,
+            "sacBunts": 0,
+            "totalBases": 2,
+            "avg": ".400"
+          }
+        },
+        {
+          "season": "2026",
+          "date": "2026-08-04",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": true,
+          "game": {
+            "gamePk": 800003
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "abbreviation": "PHI"
+          },
+          "opponent": {
+            "id": 103,
+            "name": "Opponent",
+            "abbreviation": "MIA"
+          },
+          "stat": {
+            "gamesPlayed": 1,
+            "plateAppearances": 5,
+            "atBats": 3,
+            "runs": 0,
+            "hits": 1,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "rbi": 0,
+            "baseOnBalls": 2,
+            "intentionalWalks": 0,
+            "hitByPitch": 0,
+            "strikeOuts": 3,
+            "sacFlies": 0,
+            "sacBunts": 0,
+            "totalBases": 1,
+            "avg": ".333"
+          }
+        },
+        {
+          "season": "2026",
+          "date": "2026-08-05",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": false,
+          "game": {
+            "gamePk": 800004
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "abbreviation": "PHI"
+          },
+          "opponent": {
+            "id": 104,
+            "name": "Opponent",
+            "abbreviation": "SDP"
+          },
+          "stat": {
+            "gamesPlayed": 1,
+            "plateAppearances": 6,
+            "atBats": 4,
+            "runs": 0,
+            "hits": 1,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "rbi": 1,
+            "baseOnBalls": 2,
+            "intentionalWalks": 0,
+            "hitByPitch": 0,
+            "strikeOuts": 0,
+            "sacFlies": 0,
+            "sacBunts": 0,
+            "totalBases": 1,
+            "avg": ".250"
+          }
+        },
+        {
+          "season": "2026",
+          "date": "2026-08-06",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": true,
+          "game": {
+            "gamePk": 800005
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "abbreviation": "PHI"
+          },
+          "opponent": {
+            "id": 105,
+            "name": "Opponent",
+            "abbreviation": "LAD"
+          },
+          "stat": {
+            "gamesPlayed": 1,
+            "plateAppearances": 4,
+            "atBats": 4,
+            "runs": 0,
+            "hits": 2,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "rbi": 0,
+            "baseOnBalls": 0,
+            "intentionalWalks": 0,
+            "hitByPitch": 0,
+            "strikeOuts": 0,
+            "sacFlies": 0,
+            "sacBunts": 0,
+            "totalBases": 2,
+            "avg": ".500"
+          }
+        },
+        {
+          "season": "2026",
+          "date": "2026-08-07",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": true,
+          "game": {
+            "gamePk": 800006
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "abbreviation": "PHI"
+          },
+          "opponent": {
+            "id": 106,
+            "name": "Opponent",
+            "abbreviation": "CHC"
+          },
+          "stat": {
+            "gamesPlayed": 1,
+            "plateAppearances": 4,
+            "atBats": 4,
+            "runs": 1,
+            "hits": 2,
+            "doubles": 1,
+            "triples": 0,
+            "homeRuns": 1,
+            "rbi": 1,
+            "baseOnBalls": 0,
+            "intentionalWalks": 0,
+            "hitByPitch": 0,
+            "strikeOuts": 2,
+            "sacFlies": 0,
+            "sacBunts": 0,
+            "totalBases": 6,
+            "avg": ".500"
+          }
+        },
+        {
+          "season": "2026",
+          "date": "2026-08-08",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": false,
+          "game": {
+            "gamePk": 800007
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "abbreviation": "PHI"
+          },
+          "opponent": {
+            "id": 107,
+            "name": "Opponent",
+            "abbreviation": "STL"
+          },
+          "stat": {
+            "gamesPlayed": 1,
+            "plateAppearances": 5,
+            "atBats": 4,
+            "runs": 0,
+            "hits": 2,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "rbi": 0,
+            "baseOnBalls": 1,
+            "intentionalWalks": 0,
+            "hitByPitch": 0,
+            "strikeOuts": 1,
+            "sacFlies": 0,
+            "sacBunts": 0,
+            "totalBases": 2,
+            "avg": ".500"
+          }
+        },
+        {
+          "season": "2026",
+          "date": "2026-08-09",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": false,
+          "game": {
+            "gamePk": 800008
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "abbreviation": "PHI"
+          },
+          "opponent": {
+            "id": 108,
+            "name": "Opponent",
+            "abbreviation": "MIL"
+          },
+          "stat": {
+            "gamesPlayed": 1,
+            "plateAppearances": 6,
+            "atBats": 4,
+            "runs": 1,
+            "hits": 0,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "rbi": 0,
+            "baseOnBalls": 2,
+            "intentionalWalks": 0,
+            "hitByPitch": 0,
+            "strikeOuts": 0,
+            "sacFlies": 0,
+            "sacBunts": 0,
+            "totalBases": 0,
+            "avg": ".000"
+          }
+        },
+        {
+          "season": "2026",
+          "date": "2026-08-10",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": false,
+          "game": {
+            "gamePk": 800009
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "abbreviation": "PHI"
+          },
+          "opponent": {
+            "id": 109,
+            "name": "Opponent",
+            "abbreviation": "CIN"
+          },
+          "stat": {
+            "gamesPlayed": 1,
+            "plateAppearances": 5,
+            "atBats": 3,
+            "runs": 1,
+            "hits": 0,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "rbi": 1,
+            "baseOnBalls": 2,
+            "intentionalWalks": 0,
+            "hitByPitch": 0,
+            "strikeOuts": 1,
+            "sacFlies": 0,
+            "sacBunts": 0,
+            "totalBases": 0,
+            "avg": ".000"
+          }
+        },
+        {
+          "season": "2026",
+          "date": "2026-08-11",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": false,
+          "game": {
+            "gamePk": 800010
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "abbreviation": "PHI"
+          },
+          "opponent": {
+            "id": 110,
+            "name": "Opponent",
+            "abbreviation": "NYM"
+          },
+          "stat": {
+            "gamesPlayed": 1,
+            "plateAppearances": 6,
+            "atBats": 4,
+            "runs": 1,
+            "hits": 1,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "rbi": 0,
+            "baseOnBalls": 2,
+            "intentionalWalks": 0,
+            "hitByPitch": 0,
+            "strikeOuts": 1,
+            "sacFlies": 0,
+            "sacBunts": 0,
+            "totalBases": 1,
+            "avg": ".250"
+          }
+        },
+        {
+          "season": "2026",
+          "date": "2026-08-12",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": false,
+          "game": {
+            "gamePk": 800011
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "abbreviation": "PHI"
+          },
+          "opponent": {
+            "id": 111,
+            "name": "Opponent",
+            "abbreviation": "ATL"
+          },
+          "stat": {
+            "gamesPlayed": 1,
+            "plateAppearances": 4,
+            "atBats": 3,
+            "runs": 1,
+            "hits": 1,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "rbi": 0,
+            "baseOnBalls": 1,
+            "intentionalWalks": 0,
+            "hitByPitch": 0,
+            "strikeOuts": 2,
+            "sacFlies": 0,
+            "sacBunts": 0,
+            "totalBases": 1,
+            "avg": ".333"
+          }
+        },
+        {
+          "season": "2026",
+          "date": "2026-08-13",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": false,
+          "game": {
+            "gamePk": 800012
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "abbreviation": "PHI"
+          },
+          "opponent": {
+            "id": 112,
+            "name": "Opponent",
+            "abbreviation": "WSH"
+          },
+          "stat": {
+            "gamesPlayed": 1,
+            "plateAppearances": 5,
+            "atBats": 5,
+            "runs": 0,
+            "hits": 0,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "rbi": 0,
+            "baseOnBalls": 0,
+            "intentionalWalks": 0,
+            "hitByPitch": 0,
+            "strikeOuts": 0,
+            "sacFlies": 0,
+            "sacBunts": 0,
+            "totalBases": 0,
+            "avg": ".000"
+          }
+        },
+        {
+          "season": "2026",
+          "date": "2026-08-14",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": true,
+          "game": {
+            "gamePk": 800013
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "abbreviation": "PHI"
+          },
+          "opponent": {
+            "id": 113,
+            "name": "Opponent",
+            "abbreviation": "MIA"
+          },
+          "stat": {
+            "gamesPlayed": 1,
+            "plateAppearances": 5,
+            "atBats": 5,
+            "runs": 0,
+            "hits": 2,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "rbi": 0,
+            "baseOnBalls": 0,
+            "intentionalWalks": 0,
+            "hitByPitch": 0,
+            "strikeOuts": 0,
+            "sacFlies": 0,
+            "sacBunts": 0,
+            "totalBases": 2,
+            "avg": ".400"
+          }
+        },
+        {
+          "season": "2026",
+          "date": "2026-08-15",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": false,
+          "game": {
+            "gamePk": 800014
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "abbreviation": "PHI"
+          },
+          "opponent": {
+            "id": 114,
+            "name": "Opponent",
+            "abbreviation": "SDP"
+          },
+          "stat": {
+            "gamesPlayed": 1,
+            "plateAppearances": 7,
+            "atBats": 5,
+            "runs": 1,
+            "hits": 2,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "rbi": 0,
+            "baseOnBalls": 2,
+            "intentionalWalks": 0,
+            "hitByPitch": 0,
+            "strikeOuts": 1,
+            "sacFlies": 0,
+            "sacBunts": 0,
+            "totalBases": 2,
+            "avg": ".400"
+          }
+        },
+        {
+          "season": "2026",
+          "date": "2026-08-16",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": false,
+          "game": {
+            "gamePk": 800015
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "abbreviation": "PHI"
+          },
+          "opponent": {
+            "id": 115,
+            "name": "Opponent",
+            "abbreviation": "LAD"
+          },
+          "stat": {
+            "gamesPlayed": 1,
+            "plateAppearances": 5,
+            "atBats": 4,
+            "runs": 1,
+            "hits": 1,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "rbi": 1,
+            "baseOnBalls": 1,
+            "intentionalWalks": 0,
+            "hitByPitch": 0,
+            "strikeOuts": 3,
+            "sacFlies": 0,
+            "sacBunts": 0,
+            "totalBases": 1,
+            "avg": ".250"
+          }
+        },
+        {
+          "season": "2026",
+          "date": "2026-08-17",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": true,
+          "game": {
+            "gamePk": 800016
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "abbreviation": "PHI"
+          },
+          "opponent": {
+            "id": 116,
+            "name": "Opponent",
+            "abbreviation": "CHC"
+          },
+          "stat": {
+            "gamesPlayed": 1,
+            "plateAppearances": 6,
+            "atBats": 4,
+            "runs": 1,
+            "hits": 2,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "rbi": 1,
+            "baseOnBalls": 2,
+            "intentionalWalks": 0,
+            "hitByPitch": 0,
+            "strikeOuts": 1,
+            "sacFlies": 0,
+            "sacBunts": 0,
+            "totalBases": 2,
+            "avg": ".500"
+          }
+        },
+        {
+          "season": "2026",
+          "date": "2026-08-18",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": true,
+          "game": {
+            "gamePk": 800017
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "abbreviation": "PHI"
+          },
+          "opponent": {
+            "id": 117,
+            "name": "Opponent",
+            "abbreviation": "STL"
+          },
+          "stat": {
+            "gamesPlayed": 1,
+            "plateAppearances": 6,
+            "atBats": 4,
+            "runs": 2,
+            "hits": 2,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 1,
+            "rbi": 2,
+            "baseOnBalls": 2,
+            "intentionalWalks": 0,
+            "hitByPitch": 0,
+            "strikeOuts": 0,
+            "sacFlies": 0,
+            "sacBunts": 0,
+            "totalBases": 5,
+            "avg": ".500"
+          }
+        },
+        {
+          "season": "2026",
+          "date": "2026-08-19",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": true,
+          "game": {
+            "gamePk": 800018
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "abbreviation": "PHI"
+          },
+          "opponent": {
+            "id": 118,
+            "name": "Opponent",
+            "abbreviation": "MIL"
+          },
+          "stat": {
+            "gamesPlayed": 1,
+            "plateAppearances": 4,
+            "atBats": 4,
+            "runs": 0,
+            "hits": 1,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "rbi": 0,
+            "baseOnBalls": 0,
+            "intentionalWalks": 0,
+            "hitByPitch": 0,
+            "strikeOuts": 0,
+            "sacFlies": 0,
+            "sacBunts": 0,
+            "totalBases": 1,
+            "avg": ".250"
+          }
+        },
+        {
+          "season": "2026",
+          "date": "2026-08-20",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": true,
+          "game": {
+            "gamePk": 800019
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "abbreviation": "PHI"
+          },
+          "opponent": {
+            "id": 119,
+            "name": "Opponent",
+            "abbreviation": "CIN"
+          },
+          "stat": {
+            "gamesPlayed": 1,
+            "plateAppearances": 3,
+            "atBats": 3,
+            "runs": 0,
+            "hits": 1,
+            "doubles": 1,
+            "triples": 0,
+            "homeRuns": 0,
+            "rbi": 1,
+            "baseOnBalls": 0,
+            "intentionalWalks": 0,
+            "hitByPitch": 0,
+            "strikeOuts": 1,
+            "sacFlies": 0,
+            "sacBunts": 0,
+            "totalBases": 2,
+            "avg": ".333"
+          }
+        },
+        {
+          "season": "2026",
+          "date": "2026-08-21",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": false,
+          "game": {
+            "gamePk": 800020
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "abbreviation": "PHI"
+          },
+          "opponent": {
+            "id": 120,
+            "name": "Opponent",
+            "abbreviation": "NYM"
+          },
+          "stat": {
+            "gamesPlayed": 1,
+            "plateAppearances": 4,
+            "atBats": 3,
+            "runs": 1,
+            "hits": 2,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 1,
+            "rbi": 2,
+            "baseOnBalls": 1,
+            "intentionalWalks": 0,
+            "hitByPitch": 0,
+            "strikeOuts": 1,
+            "sacFlies": 0,
+            "sacBunts": 0,
+            "totalBases": 5,
+            "avg": ".667"
+          }
+        },
+        {
+          "season": "2026",
+          "date": "2026-08-22",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": true,
+          "game": {
+            "gamePk": 800021
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "abbreviation": "PHI"
+          },
+          "opponent": {
+            "id": 121,
+            "name": "Opponent",
+            "abbreviation": "ATL"
+          },
+          "stat": {
+            "gamesPlayed": 1,
+            "plateAppearances": 5,
+            "atBats": 5,
+            "runs": 0,
+            "hits": 0,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "rbi": 0,
+            "baseOnBalls": 0,
+            "intentionalWalks": 0,
+            "hitByPitch": 0,
+            "strikeOuts": 0,
+            "sacFlies": 0,
+            "sacBunts": 0,
+            "totalBases": 0,
+            "avg": ".000"
+          }
+        },
+        {
+          "season": "2026",
+          "date": "2026-08-23",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": true,
+          "game": {
+            "gamePk": 800022
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "abbreviation": "PHI"
+          },
+          "opponent": {
+            "id": 122,
+            "name": "Opponent",
+            "abbreviation": "WSH"
+          },
+          "stat": {
+            "gamesPlayed": 1,
+            "plateAppearances": 5,
+            "atBats": 3,
+            "runs": 0,
+            "hits": 0,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "rbi": 0,
+            "baseOnBalls": 2,
+            "intentionalWalks": 0,
+            "hitByPitch": 0,
+            "strikeOuts": 0,
+            "sacFlies": 0,
+            "sacBunts": 0,
+            "totalBases": 0,
+            "avg": ".000"
+          }
+        },
+        {
+          "season": "2026",
+          "date": "2026-08-24",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": false,
+          "game": {
+            "gamePk": 800023
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "abbreviation": "PHI"
+          },
+          "opponent": {
+            "id": 123,
+            "name": "Opponent",
+            "abbreviation": "MIA"
+          },
+          "stat": {
+            "gamesPlayed": 1,
+            "plateAppearances": 4,
+            "atBats": 3,
+            "runs": 0,
+            "hits": 3,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "rbi": 0,
+            "baseOnBalls": 1,
+            "intentionalWalks": 0,
+            "hitByPitch": 0,
+            "strikeOuts": 0,
+            "sacFlies": 0,
+            "sacBunts": 0,
+            "totalBases": 3,
+            "avg": "1.000"
+          }
+        },
+        {
+          "season": "2026",
+          "date": "2026-08-25",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": false,
+          "game": {
+            "gamePk": 800024
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "abbreviation": "PHI"
+          },
+          "opponent": {
+            "id": 124,
+            "name": "Opponent",
+            "abbreviation": "SDP"
+          },
+          "stat": {
+            "gamesPlayed": 1,
+            "plateAppearances": 6,
+            "atBats": 4,
+            "runs": 1,
+            "hits": 0,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "rbi": 0,
+            "baseOnBalls": 2,
+            "intentionalWalks": 0,
+            "hitByPitch": 0,
+            "strikeOuts": 3,
+            "sacFlies": 0,
+            "sacBunts": 0,
+            "totalBases": 0,
+            "avg": ".000"
+          }
+        }
+      ]
+    }
+  ]
+}

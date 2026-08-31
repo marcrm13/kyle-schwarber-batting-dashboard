@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "locale": "en_US.UTF-8",
+  "metadata": {
+    "appmode": "python-shiny",
+    "entrypoint": "app:app"
+  },
+  "python": {
+    "version": "3.11.15",
+    "package_manager": {
+      "name": "pip",
+      "version": "26.2.1",
+      "package_file": "requirements.txt"
+    }
+  },
+  "environment": {
+    "python": {
+      "requires": "~=3.11.0"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "5324e0d6e189ddfc85a501a3e1fb4634"
+    },
+    ".gitignore": {
+      "checksum": "89b1699cf7356075871b6824d19eb116"
+    },
+    ".python-version": {
+      "checksum": "c0479ff484dacd51dc5ba0461b16b9bf"
+    },
+    "README.md": {
+      "checksum": "fe3cb2b62df50daee64bad4bcf427362"
+    },
+    "app.py": {
+      "checksum": "86021925cc2fa90371014e422cb7c739"
+    },
+    "docs/screenshot.png": {
+      "checksum": "31a29bf7bbad2454a9702c5bc827d762"
+    },
+    "mlb_data.py": {
+      "checksum": "6c8c73edb80213373ceb2e4422f03164"
+    },
+    "requirements-dev.txt": {
+      "checksum": "fd1d63d63a12b2151d5d9a781e00d1c1"
+    },
+    "tests/fixtures/gamelog_2026.json": {
+      "checksum": "4270c95bb738c64a7155742f261da629"
+    },
+    "tests/make_fixture.py": {
+      "checksum": "556640e95d083abb87cd2444b40536f5"
+    },
+    "tests/test_mlb_data.py": {
+      "checksum": "a26d575213efb5784e027d3a213a24eb"
+    },
+    "theme.py": {
+      "checksum": "cdbd8b49729adffc1f84e65089ed6198"
+    }
+  }
+}
